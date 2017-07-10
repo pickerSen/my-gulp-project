@@ -8,3 +8,5 @@
 		cat ~/.ssh/id_rsa.pub
 	3.在github的seting中找到ssh and GPG keys 配对
 
+git commit -m/-a/am 
+
