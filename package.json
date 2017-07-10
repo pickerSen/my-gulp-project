@@ -1,0 +1,22 @@
+{
+  "name": "my-gulp-project",
+  "version": "1.0.0",
+  "description": "gulp入门",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pickerSen/my-gulp-project.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "pickerSen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pickerSen/my-gulp-project/issues"
+  },
+  "homepage": "https://github.com/pickerSen/my-gulp-project#readme"
+}
